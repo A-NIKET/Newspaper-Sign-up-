@@ -1,1 +1,1 @@
-wb: node app.js
+wb:node app.js
